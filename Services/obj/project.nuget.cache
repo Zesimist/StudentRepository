@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1303IO8zSeQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\dotnet\\Working Treee\\CrudExample\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
